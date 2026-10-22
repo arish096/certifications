@@ -35,4 +35,4 @@ Completed the AI Essentials 2026 course, demonstrating foundational learning in 
 
 ### Original Certificate
 
-[View / Download Certificate PDF](./arish-islam-ai-essentials-2026-certificate.pdf)
+[View / Download Certificate PDF](./arish-islam-ai-essentials-2026.pdf)
