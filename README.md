@@ -36,5 +36,3 @@ Completed the AI Essentials 2026 course, demonstrating foundational learning in 
 
 [View / Download Certificate PDF](./Canva-AI-Essentials-2026.pdf)
 
-
-[View / Download Certificate PDF](./arish-islam-ai-essentials-2026.pdf)
